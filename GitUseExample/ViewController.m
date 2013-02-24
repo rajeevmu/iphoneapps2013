@@ -14,6 +14,16 @@
 
 @implementation ViewController
 
+@synthesize btn1;
+
+
+
+-(IBAction)btn1Clicked:(id)sender
+{
+    
+    NSLog(@"I clicked on btn1");
+}
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];
