@@ -24,6 +24,8 @@
     NSLog(@"I clicked on btn1");
 }
 
+
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];
